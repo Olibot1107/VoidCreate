@@ -1,0 +1,8 @@
+node_modules/
+dist/
+out/
+coverage/
+.DS_Store
+*.log
+launcher-state.json
+taken-usernames.json
